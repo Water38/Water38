@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Water38
-- 👀 I’m interested in Cyber Setcurity
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Kali Linux Commands
 - 📫 You cant reach me
 
